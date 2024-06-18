@@ -27,7 +27,7 @@ A simple web application for managing a shopping list with the ability to mark i
 ### Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username/shopping-list-app.git
+git clone https://github.com/adarsh16p7/shopping-list.git
 ```
 
 2. Navigate into the project directory:
