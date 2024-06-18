@@ -32,7 +32,7 @@ git clone https://github.com/adarsh16p7/shopping-list.git
 
 2. Navigate into the project directory:
 ```sh
-cd shopping-list-app
+cd shopping-list
 ```
 3. Open **index.html** in your web browser.
 
